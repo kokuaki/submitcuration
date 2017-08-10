@@ -1,2 +1,2 @@
-# submitcuration
-# first commit
+# curation
+# websitehtml->curattionforExcel
